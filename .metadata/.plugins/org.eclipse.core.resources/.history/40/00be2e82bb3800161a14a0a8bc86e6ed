@@ -1,0 +1,12 @@
+
+public class Random {
+
+	public static void main(String[] args) {
+
+		System.out.println(Math.random());
+		
+		int myNum = (int)6.7;
+
+	}
+
+}

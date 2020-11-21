@@ -1,0 +1,12 @@
+
+public class BasicChanging {
+
+	public static void main(String[] args) {
+		
+		int myNum = 6;
+		
+		myNum = 7899;
+
+	}
+
+}

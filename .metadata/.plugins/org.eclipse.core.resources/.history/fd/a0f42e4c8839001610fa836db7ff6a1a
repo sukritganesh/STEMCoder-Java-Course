@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class LeapYearTest {
+
+	public static void main(String[] args) {
+		
+		Scanner myInput = new Scanner(System.in);
+		
+		System.out.println("Welcome to leap year tester.\nPlease enter a year.");
+		
+		int year = myInput.nextInt();
+
+	}
+
+}

@@ -1,0 +1,12 @@
+
+public class IntroToVariables {
+
+	public static void main(String[] args) {
+	
+		double x = 10000;
+		System.out.println(x);
+		
+
+	}
+
+}

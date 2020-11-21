@@ -1,0 +1,14 @@
+
+public class RandomSubstring {
+
+	public static void main(String[] args) {
+
+		String name = "Donald Trump";
+		
+		int pos1 = (int) (Math.random()*(name.length()));
+		
+		int pos1 = (int) (Math.random()*(name.length()));
+
+	}
+
+}

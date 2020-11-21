@@ -1,0 +1,14 @@
+
+public class Random {
+
+	public static void main(String[] args) {
+
+		System.out.println((int)Math.random());
+		
+		int myNum = (int)3.9;
+		
+		System.out.println(myNum);
+
+	}
+
+}

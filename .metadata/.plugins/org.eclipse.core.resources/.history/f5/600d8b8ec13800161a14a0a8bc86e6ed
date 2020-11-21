@@ -1,0 +1,13 @@
+
+public class StringMethods {
+
+	public static void main(String[] args) {
+		
+		String name = "Washington";
+
+		int position = Math.random()*
+		
+
+	}
+
+}

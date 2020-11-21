@@ -1,0 +1,14 @@
+
+public class MethodFun {
+
+	public static void main(String[] args) {
+		
+		double num = 2;
+		
+	    num = Math.pow(num, 3);
+	    
+	    System.out.println(num);
+
+	}
+
+}

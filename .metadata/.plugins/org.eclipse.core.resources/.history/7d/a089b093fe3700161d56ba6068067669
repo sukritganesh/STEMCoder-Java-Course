@@ -1,0 +1,17 @@
+
+public class MethodFun {
+
+	public static void main(String[] args) {
+		
+		double num = 5;
+		int num2 = 3;
+		
+		num = Math.sqrt(num);
+		
+		System.out.println(num);
+		
+		num = Math.ceil(num);
+
+	}
+
+}

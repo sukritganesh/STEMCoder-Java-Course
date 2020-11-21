@@ -1,0 +1,25 @@
+import java.util.Scanner;
+public class InputTest {
+
+	public static void main(String[] args) {
+		
+		Scanner myInput = new Scanner(System.in);
+		
+		System.out.println("Welcome to KeyGen Enhanced.");
+		
+		System.out.println("Enter a number.");
+		
+		int num1 = myInput.nextInt();
+		
+		System.out.println("Enter a number.");
+		
+		int num2 = myInput.nextInt();
+		
+		System.out.println("Enter a number.");
+		
+		int num3 = myInput.nextInt();
+		
+
+	}
+
+}

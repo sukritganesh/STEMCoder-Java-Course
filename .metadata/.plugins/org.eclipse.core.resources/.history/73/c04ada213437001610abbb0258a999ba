@@ -1,0 +1,11 @@
+
+public class IntroToVariables {
+
+	public static void main(String[] args) {
+	
+		//Store the number trillion in a variable
+		//Then, print out the variable
+
+	}
+
+}

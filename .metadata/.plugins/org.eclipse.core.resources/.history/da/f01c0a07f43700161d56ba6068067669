@@ -1,0 +1,13 @@
+
+public class BasicChanging {
+
+	public static void main(String[] args) {
+		
+		char myLetter = '8';
+		int myNum = 9;
+		
+		System.out.println(myLetter + myNum);
+
+	}
+
+}

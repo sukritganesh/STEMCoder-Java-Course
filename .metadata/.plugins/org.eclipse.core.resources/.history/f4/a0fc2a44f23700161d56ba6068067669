@@ -1,0 +1,14 @@
+
+public class BasicChanging {
+
+	public static void main(String[] args) {
+		
+		int myNum = 6;
+		
+		System.out.println(myNum);
+		
+		myNum = 7899;
+
+	}
+
+}

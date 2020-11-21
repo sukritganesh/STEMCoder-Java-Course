@@ -1,0 +1,23 @@
+import java.util.Scanner;
+public class booleans {
+
+	public static void main(String[] args) {
+		
+		Scanner myInput = new Scanner(System.in);
+		
+		System.out.println("Enter your first grade");
+		int g1 = myInput.nextInt();
+		
+		System.out.println("Enter your second grade");
+		int g2 = myInput.nextInt();
+		
+		System.out.println("Enter your third grade");
+		int g3 = myInput.nextInt();
+		
+		double gpa = 0;
+		
+		if (g1 == 3)
+
+	}
+
+}

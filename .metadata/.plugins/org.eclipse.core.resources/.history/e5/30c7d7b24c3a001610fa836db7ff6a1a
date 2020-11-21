@@ -1,0 +1,12 @@
+
+public class booleans {
+
+	public static void main(String[] args) {
+		
+		boolean tf = false;
+		
+		boolean isRight = true;
+
+	}
+
+}

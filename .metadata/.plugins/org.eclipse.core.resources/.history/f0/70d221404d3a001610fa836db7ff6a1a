@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class booleans {
+
+	public static void main(String[] args) {
+		
+		Scanner myInput = new Scanner(System.in);
+		
+		System.out.println("Enter your first grade");
+
+	}
+
+}

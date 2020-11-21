@@ -1,0 +1,13 @@
+
+public class StringMethods {
+
+	public static void main(String[] args) {
+
+		int myNum = 6;
+		String myString = "Library";
+		
+		System.out.println(myString(6));
+
+	}
+
+}

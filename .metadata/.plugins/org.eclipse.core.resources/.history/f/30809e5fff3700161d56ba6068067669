@@ -1,0 +1,14 @@
+
+public class MethodFun {
+
+	public static void main(String[] args) {
+		
+		double num = 2;
+		
+	    num = Math.min(3, num);
+	    
+	    System.out.println(num);
+
+	}
+
+}

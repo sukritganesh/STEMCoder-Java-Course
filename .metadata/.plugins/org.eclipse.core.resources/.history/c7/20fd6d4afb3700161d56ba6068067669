@@ -1,0 +1,13 @@
+import java.lang.Math;
+
+public class MathMethods {
+
+	public static void main(String[] args) {
+
+		int test1 = 98;
+		int test2 = 89;
+		int test3 = 97;
+
+	}
+
+}

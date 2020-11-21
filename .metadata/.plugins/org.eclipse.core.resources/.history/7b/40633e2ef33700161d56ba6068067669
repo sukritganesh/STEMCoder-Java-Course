@@ -1,0 +1,16 @@
+
+public class BasicChanging {
+
+	public static void main(String[] args) {
+		
+		String myNum = "Hello";
+		
+		System.out.println(myNum);
+		
+		myNum = "World";
+		
+		System.out.println(myNum);
+
+	}
+
+}

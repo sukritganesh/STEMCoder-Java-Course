@@ -1,0 +1,18 @@
+import java.lang.Math;
+public class RandomSubstring {
+
+	public static void main(String[] args) {
+
+		String name = "Donald Trump";
+		
+		int pos1 = (int) (Math.random()*(name.length()));
+		
+		int pos2 = (int) (Math.random()*(name.length()));
+		
+		String sub = (Math.min(pos1, pos2). Math.max(pos1, pos2));
+		
+		System.out.println(sub);
+
+	}
+
+}

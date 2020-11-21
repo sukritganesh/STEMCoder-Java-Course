@@ -1,0 +1,14 @@
+
+public class BasicChanging {
+
+	public static void main(String[] args) {
+		
+		int tensDigit = 6;
+		int onesDigit = 5;
+		char myChar = 'h';
+		
+		System.out.println(tensDigit + "" + onesDigit + myChar);
+
+	}
+
+}

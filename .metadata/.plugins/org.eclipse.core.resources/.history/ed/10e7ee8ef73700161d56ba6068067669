@@ -1,0 +1,14 @@
+
+public class BasicMath {
+
+	public static void main(String[] args) {
+		
+		int myNum = 6;
+		
+		int mySecondNum = 8;
+
+		System.out.println(myNum + mySecondNum);
+
+	}
+
+}

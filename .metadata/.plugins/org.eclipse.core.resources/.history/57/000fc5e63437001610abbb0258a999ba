@@ -1,0 +1,11 @@
+
+public class IntroToVariables {
+
+	public static void main(String[] args) {
+	
+		double x = 1.74939485739485739874983;
+		System.out.println(x);
+
+	}
+
+}

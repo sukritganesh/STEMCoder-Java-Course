@@ -1,0 +1,9 @@
+
+public class EscapeCharacters {
+
+	public static void main(String[] args) {
+		System.out.println("1\n\t2\n\t\t3\n\t\t\t4\n\t\t\t\t5");
+
+	}
+
+}
